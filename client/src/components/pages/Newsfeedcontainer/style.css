@@ -1,0 +1,22 @@
+.borderNF {
+    border-radius: 25px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+  }
+
+
+#content {
+    height: 100%;
+    display: flex;
+    flex: 1;
+  
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
