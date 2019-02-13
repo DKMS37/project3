@@ -4,7 +4,6 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "Server.js",
   "dependencies": {
-    "build": "^0.1.4",
     "cli": "^1.0.1",
     "heroku": "^7.21.0",
     "nodemon": "^1.18.10",
