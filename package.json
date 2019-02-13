@@ -4,16 +4,16 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "Server.js",
   "dependencies": {
+    "build": "^0.1.4",
     "cli": "^1.0.1",
     "heroku": "^7.21.0",
     "nodemon": "^1.18.10",
     "path": "^0.12.7"
-    
   },
   "devDependencies": {
     "axios": "^0.18.0",
     "bcrypt": "^3.0.4",
-    "ee-first": "^1.1.1", 
+    "ee-first": "^1.1.1",
     "express": "^4.16.4",
     "if-env": "^1.0.4",
     "mongoose": "^5.3.16",
