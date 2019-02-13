@@ -41,6 +41,7 @@
     "node": "10.3.0",
     "npm": "6.x"
   },
+  
   "browserslist": [
     ">0.2%",
     "not dead",
